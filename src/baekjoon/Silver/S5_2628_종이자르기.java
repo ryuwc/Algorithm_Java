@@ -26,7 +26,7 @@ public class S5_2628_종이자르기 {
         List<Integer> widInfo = new ArrayList<>();
         widInfo.add(0);
         widInfo.add(M);
-        List<Integer> heiInfo = new ArrayList();
+        List<Integer> heiInfo = new ArrayList<>();
         heiInfo.add(0);
         heiInfo.add(N);
         for (int i = 0; i < line; i++) {
